@@ -1,2 +1,2 @@
-# MyPowerBIprojects
-Power BI projects that I have done
+# MyDataAnalyticsprojects
+Data Analytics projects that I have done
